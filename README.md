@@ -1,2 +1,2 @@
 # pyramid_patterns
-Pyramid Pattersn in Java
+Pyramid Patterns in Java
