@@ -1,2 +1,7 @@
 # pyramid_patterns
-Pyramid Patterns in Java
+A collection of different Pyramid patterns in Java. 
+
+## Pattern 1
+
+
+
